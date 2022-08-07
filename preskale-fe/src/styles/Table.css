@@ -1,0 +1,65 @@
+
+.heading {
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    padding-left: 0;
+}
+
+.shead {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding-left: 290px;
+}
+.add-bt {
+    display: inline-block;
+    align-items: right;
+    justify-content: right;
+    padding-right: 0px;
+}
+
+.table-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 1rem;
+    align-items: center;
+    justify-content: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    border: 1px solid #ffffff;
+    text-align: left;
+    padding: 8px;
+    font-size: 16px;
+}
+
+th {
+    background-color: rgb(255, 255, 255);
+}
+
+td {
+    background-color: rgb(255, 255, 255);
+}
+
+form {
+    display: flex;
+    gap: 5px;
+}
+
+form td:last-child {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+form * {
+    font-size: 16px;
+}

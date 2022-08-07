@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "Name":"Bird",
+      "spottedat": "Jenny Chan",
+      "spotteddate": "2018-07-22",
+      "conservationstatus": "333-962-7516",
+      "scientificName": "jenny.chan@email.com"
+    },
+    {
+        "id": 2,
+        "Name":"Peacock Bird",
+        "spottedat": "Jenny Chan",
+        "spotteddate": "2022-07-22",
+        "conservationstatus": "333-962-7516",
+        "scientificName": "jenny.chan@email.com"
+    },
+    {
+      "id": 3,
+      "Name":"Sparrow Bird",
+      "spottedat": "Jenny Chan",
+      "spotteddate": "2020-07-22",
+      "conservationstatus": "333-962-7516",
+      "scientificName": "jenny.chan@email.com"
+    },
+    {
+      "id": 4,
+      "Name":"Small Bird",
+      "spottedat": "Jenny Chan",
+      "spotteddate": "2018-07-22",
+      "conservationstatus": "333-962-7516",
+      "scientificName": "jenny.chan@email.com"
+    },
+    {
+      "id": 5,
+      "Name":"Big Bird",
+      "spottedat": "Somewhere",
+      "spotteddate": "2019-08-22",
+      "conservationstatus": "333-962-7516",
+      "scientificName": "jenny.chan@email.com"
+    }
+  ]
